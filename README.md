@@ -53,7 +53,7 @@ We fine-tune the **LLaVA-1.5-7B** model using **DPO**, optimizing the gap betwee
 We have uploaded a multimodal chain-of-thought preference dataset to HuggingFace, available at:  
 [**llava-chains-10k-individual**](https://huggingface.co/datasets/abshetty/llava-chains-10k-individual).  
 
-This dataset contains 10,000 individual examples for fine-tuning multimodal models on chain-of-thought reasoning tasks. The dataset is stored in Parquet format for efficient access and can be easily integrated into your model training pipeline. Researchers are encouraged to use this resource to experiment with multimodal chain-of-thought reasoning and explore the potential for improving multimodal LLM performance.
+This dataset contains nearly 10,000 individual examples for fine-tuning multimodal models on chain-of-thought reasoning tasks. The dataset is stored in Parquet format for efficient access and can be easily integrated into your model training pipeline. Researchers are encouraged to use this resource to experiment with multimodal chain-of-thought reasoning and explore the potential for improving multimodal LLM performance.
 
 ---
 
